@@ -15,9 +15,9 @@ Tworzenie modyfikacji do gier
 ## Cele na studiach
 Rozwijanie dalej umiejętnosci programowania w językach podanych w Umiejetnosciach.
 
->Nauka:
->-algorytmów oraz praca na bazach danych
->-programowanie gier komputerowych
->-grafika komputerowa
->-grafika 2D i 3D
->-modele 3D
+> Nauka:
+> -algorytmów oraz praca na bazach danych
+> -programowanie gier komputerowych
+> -grafika komputerowa
+> -grafika 2D i 3D
+> -modele 3D
